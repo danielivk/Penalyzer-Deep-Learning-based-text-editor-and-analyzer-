@@ -59,7 +59,7 @@ Please install the dependencies using Anaconda PyCharm (recommended).
 
   * A small set of our authentic words set.
 
-  In order to get the pretrained models / datasets, please send us an email: eylon.miz@gmail.com
+  In order to get the pretrained models / datasets, please send us an email: Daniel.Ivk.software@gmail.com
 
 ## Usage
 
